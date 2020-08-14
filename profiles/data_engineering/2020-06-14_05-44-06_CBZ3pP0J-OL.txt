@@ -1,0 +1,22 @@
+In the previous post we dicuss the simple monolithic Data Pipeline. The problem was that
+> Queries were timming out as users increase.
+> Exceeding DB capacity.
+> Need of complex analytical SQL functions, reporting, charts and business intelligence is not sufficed.
+.
+.
+So to overcome above challenges we introduce a Data Warehouse between User and Database. A scheduler updates tables, loads tables, and delete tables in DW.
+.
+.
+> The Monolithic here can be a Python Monolithic or Scala or PHP Monolithic.
+> The DB can be MySQL or PostgreSQL.
+>  Scheduler can be Cron jobs, Apache Airflow, Oozie, or Luigi.
+> Data Warehouse can be BigQuery or Redshift.
+.
+.
+The challenges of this batch architecture is that:
+.
+> At some point workflow jobs increases from 100+ to 1000+ per day for loading tables.
+> On incremental or batch environment we start having to impose dependency on schema as requirement changes and it's difficult to maintain.
+> DBA imapact workload which incur latency which results into missing data.
+> Hard deletes in DB are difficult to propagate.
+#data #datadriven #bigdata #dataengineering #dataengineer  #database #data_engineering #distributedsystems #dataarchitecture #databaseadministrator #datamining #datascience #datavisualization #future #tech #technology #machinelearning #ai #artificialintelligence #python #hadoop #google #amazon #cloudtechnology #education #community #programming #python #java #scala #dataanalytics

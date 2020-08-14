@@ -1,0 +1,26 @@
+Data Lake: A central place where all company's raw data flows, rapidly.
+
+It is intended to be raw data - as close to the source as possible. It is still a good idea to capture the meta data and describe the data so that people can explore the lake and re-use what is available.
+
+Data Lake comprises of these 5 major principles:
+
+Ingest: Ability to collect all data that business care about. Systems frequently ingest data through APIs and batch processing.
+
+Store: Getting all data in one place and breaking down data silos. The storage should be scalable that supports storing structured, unstructured, and semistructured data.
+
+Analyze: Matching correct data point and having correct systems and finding relations between all data gathered. Schema is written at the time of analysis (schema on read)
+
+Surface: There needs to be a simple method to display all analysis. The data need to be understand here; the easier to see the result the easier to take actions.
+
+Act: "Make Me More Money". A plan has to be put in place to take the results of data analysis and fit it into an operation business model.
+
+The main challenge with a data lake architecture is that raw data is stored with no oversight of the contents. For a data lake to make data usable, it needs to have defined mechanisms to catalog, and secure data. Without these elements, data cannot be found, or trusted resulting in a “data swamp."
+☕
+For those who are thinking that how Data Warehouse is different from a Data Lake, well to put it succinctly, proving the value of data is the role of Data Lake and In Data Warehouse one's valuable data resides which they use for reporting purposes.
+
+Which one to use Data Lake or Data Warehouse?
+Big Data isn't a singular term. Every architecture and every technology underline has their unique use case. So in other words use the best tool for the job.
+
+There is a nice blog on Data Lake and Data Warehouse : https://bit.ly/2TPb4lr ( The link is in the bio)
+
+#data #datadriven #bigdata #dataengineering #dataengineer #data_engineering  #datascience #datavisualization #programming #java #scala #python #machinelearning #deeplearning #googlecloudplatform #aws

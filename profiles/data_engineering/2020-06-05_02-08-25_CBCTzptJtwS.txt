@@ -1,0 +1,13 @@
+Data Pipeline Series 
+#1 Monolithic Architecture.
+.
+.
+> Simple easy to implement and cheap .
+> Viable solution when we want database up and running now.
+>  Latency of data that user is looking at is realtime because they are directly querying the data base.
+> When more users start digging into the data, queries start begin to timeout.
+> Users start impacting each other, no isolation time of query.
+> Report generation start failing.
+
+#data #data_engineering
+#datascience #dataanalytics #dataanalysis #programming #softwaredevelopment #computerscience

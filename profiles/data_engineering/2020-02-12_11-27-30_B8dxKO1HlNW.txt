@@ -1,0 +1,25 @@
+☕Data Integration
+
+Data integration is a set of processes used to retrieve and combine data from multiple sources into meaningful and valuable information.There are multiple strategies for this, either through Data Warehousing, Federation, or Data There are two approaches for data integration - firstly, traditional data integration performed using batch processing (data on the rest), and secondly, big data integration which can be done in Real-time or with batch processing. Which make the ETL(Extract >Tranform > Load) phases reordered to become ELT in some cases, so the data is extracted, loaded into distributed file systems, and then transformed before being used. .
+.
+☕Data Streaming
+
+Streaming is a type of data processing engine that is designed with infinite data sets in mind (Visualize a river. Where does the river begin? Where does the river end? Intrinsic to our understanding of a river is the idea of flow. The river has no beginning and no end. Streaming data is ideally suited to data that has no discrete beginning or end). Data streaming is the process of sending data records continuously rather than in batches. .
+.
+☕Data Preparation
+
+Data preparation is the task of blending, shaping and cleansing data to get it ready for analytics or other business purposes. One way to understand the ins and outs of data preparation is by looking at these five D’s:
+
+1) DISCOVER - finding the data best-suited for a specific purpose.
+2) DETAIN - collecting the data selected during discovery.
+3) DISTILL - refining the data collected during the detain phase of data preparation
+4) DOCUMENT - recording both business and technical metadata
+5) DELIVER - structuring distilled data into the format needed by the consuming process or user
+.
+.
+✉️
+Next post wil be about Data Warehouse and Data Lake.
+✉️
+.
+.
+#data #datadriven #bigdata #dataengineering #dataengineer  #database #data_engineering #distributedsystems #dataarchitecture #databaseadministrator #datamining #datascience #datavisualization #future #tech #technology #machinelearning #ai #artificialintelligence #python #hadoop #googlecloud #cloudtechnology #education #community #programming #python #java #scala #dataanalytics

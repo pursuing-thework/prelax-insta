@@ -1,0 +1,13 @@
+"Data engineering field could be thought of as a superset of business intelligence and data warehousing that brings more elements from software engineering. This discipline also integrates specialization around the operation of so called “big data” distributed systems, along with concepts around the extended Hadoop ecosystem, stream processing, and in computation at scale" - Maxime Beauchemin
+.
+.
+Roles in Data Engineering
+.
+.
+Data Architect: A data architect lays down the foundation for data management systems to ingest, integrate and maintain all the data sources. This role requires knowledge of tools like SQL, XML, Hive, Pig, Spark, etc.
+☕
+Database Administrator: As the name suggests, a person working in this role requires extensive knowledge of databases. Responsibilities entail ensuring the databases are available to all the required users, is maintained properly and functions without any glitches when new features are added.
+☕
+Data Engineer: The master of the lot. A data engineer, needs to have knowledge of database tools, languages like Python, Java, and Scala, distributed systems like Hadoop, among other things. It’s a combination of skills into one single role.
+
+#data #datadriven #bigdata #dataengineering #dataengineer #database #data_engineering #distributedsystems #dataarchitecture #databaseadministrator #datamining #datascience #datavisualization #future #tech #technology #machinelearning #ai #artificialintelligence #python #hadoop #google #amazon #cloudtechnology #education #community #programming #python #java #scala #dataanalytics

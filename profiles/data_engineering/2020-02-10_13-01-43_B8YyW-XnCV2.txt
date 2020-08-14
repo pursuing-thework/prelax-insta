@@ -1,0 +1,17 @@
+For more data and data engineering content follow us @data_engineering .
+.
+.
+
+We all will be going through the journey of data from it's raw form to it's baked. And will explore where exactly data engineers fit in the picture. . .
+
+Data engineers currently don't have a coherent or systematic course. Most people in this position, rather than following a thorough path, got there by learning on the job. My aim towards this page is to help anyone who wants to be a data engineer but doesn't know where to start and where to find resources for the research.
+.
+.
+.
+
+Picture Credit : Timo Elliott
+.
+.
+.
+#data #dataengineering #bigdata #engineering #datamining #datapipeline #datastreaming #database #data_engineering #datawizard #apache #opensource #technology #computer #education #community #bigdatahadoop  #bigdatanews #bigdatarevolution #analytics #googlecloud #azure #aws #ibm #cloudtechnology #artificialintelligence #dev
+#community #science #programming #future
